@@ -5,16 +5,16 @@
 ## Purpose
 TeX Editor is a project designed to generate in a canonical and science-like form of formulas and comments to them. The application was created to simplify the work with TeX code when the user needs to obtain formula in the form of a graphic image quickly. Application functionality includes the following mathematical symbols:
 - standard set of mathematical symbols (+, -, *, /, =, < , >)
-- \pm –- plus-minus sign
-- \cdot -- an another way to indicate multiplication
-- \le, \ge – inequality signs
-- \neq -- not equal sign
-- \sqrt -- square root (and \sqrt[p] -- root of p-th any degree)
-- \sum -- summation sign
-- \prod -- product sign
-- \frac{}{} –- fraction (including multi-level fractions)
-- ^{} -- subscript or exponentiation sign (including multi-level degrees)
-- _{} -- subscript
+- \pm - plus-minus sign
+- \cdot - an another way to indicate multiplication
+- \le, \ge - inequality signs
+- \neq - not equal sign
+- \sqrt - square root (and \sqrt[p] -- root of p-th any degree)
+- \sum - summation sign
+- \prod - product sign
+- \frac{}{} - fraction (including multi-level fractions)
+- ^{} - subscript or exponentiation sign (including multi-level degrees)
+- _{} - subscript
 Code for symbols is not necessary for the user to memorize. Special hints are built into the applications, as well as buttons with corresponding symbols on them.
  
 The application interface consists of two windows: in the left one user enters the formula in text format (or uploads the text-file), and in the right one the formula is generates as an image.
