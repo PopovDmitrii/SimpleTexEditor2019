@@ -1,6 +1,6 @@
 # TeX Editor 
 
-![] (https://pp.userapi.com/c846220/v846220531/1a9555/GafoHl3Vphk.jpg)
+![](https://pp.userapi.com/c846220/v846220531/1a9555/GafoHl3Vphk.jpg)
 
 ## Purpose
 TeX Editor is a project designed to generate in a canonical and science-like form of formulas and comments to them. The application was created to simplify the work with TeX code when the user needs to obtain formula in the form of a graphic image quickly. Application functionality includes the following mathematical symbols:
